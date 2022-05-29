@@ -27,3 +27,11 @@ body{
     color: white;
 }
 
+/*Estilos nav*/
+.nav{
+    padding: 2rem 0;
+}
+.nav a{
+    margin-right: 2rem;
+}
+
